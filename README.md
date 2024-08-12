@@ -1,2 +1,2 @@
 # sarathi
-this is for snake game
+snake game
